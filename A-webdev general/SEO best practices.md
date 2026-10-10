@@ -1,0 +1,3 @@
+- a sitemap.xml that maps the website for the search engine
+- baclinks (when other websites link to yours)
+- mobile friendliness, load speed, layout shifts and responsiveness
