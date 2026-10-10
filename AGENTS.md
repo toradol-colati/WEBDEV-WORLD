@@ -1,0 +1,2 @@
+   - Dopo ogni modifica ai file di questo vault, fai subito commit con un messaggio che inizia con "ai:" seguito da cosa hai cambiato.
+   - Le note che scrivi tu hanno nel frontmatter `autore: ai` e `stato: non-verificato`.
