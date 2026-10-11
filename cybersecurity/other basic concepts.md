@@ -1,3 +1,25 @@
 - strictly lock each user in its own UUID
 - password resete-links expiretion
 - error handling with custom error screens for every failure states
+
+### other things
+- add hsts
+- add csrf tokens
+- reset session on password change
+- expire reset links
+- prevent user enumeration
+- whitelist upload types
+- verify payment webhooks
+- set prices server-side
+- block prompt injection
+- cap AI usage
+- limit request size
+- rate limit password resets
+- sanitize before storing
+- lock down cors
+- disable directory listing
+- remove default admin routes
+- lock accounts after a couple of failed logins
+- log security events
+- set secure cookie flags
+- restrict database permissions

@@ -6,5 +6,5 @@ th "flex" which is a simpler version that should adapt to different layous witho
 the "fit" is a stripped-down version built for small spaces where clarity matters more than details
 ### submark logo
 the "stamp" is a compact and simplest mark used when space is thight
-### 3D logo
-on 3dsvg.design
+### [[3D logo]]
+via 3dsvg.design 

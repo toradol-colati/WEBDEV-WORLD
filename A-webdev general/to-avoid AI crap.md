@@ -1,0 +1,29 @@
+- harsh gradients
+- lucide icons
+- pure white background
+- rainbow coloring
+- drop shadows
+- 3 feature cards in a row
+- emojis
+- liquid glass
+- em dashes
+- inter/geist/space grotesk
+- colored left stripe
+- bento grids
+- terminal window
+- "it's not x, it's y"
+- checkmark bullets
+- 3 pricing tiers
+- no real product demos
+- soft corner radius
+- purple and black palette
+- no skeleton loaders
+- radial orbs
+- dot grids
+- sparkle icons
+- animated arrows
+- no TOS
+- no privacy policy
+- hover animations
+- neon colors
+- basic pastel colors 
