@@ -1,0 +1,3 @@
+- strictly lock each user in its own UUID
+- password resete-links expiretion
+- error handling with custom error screens for every failure states

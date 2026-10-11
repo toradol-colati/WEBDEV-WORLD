@@ -1,3 +1,9 @@
+## Services
+- Supabase
+- Firestore
+- Convex (uses typescript)
+
+
 ## Languages
 - Java
     (springboot) is for enterprise-grade like banks and fintech, it's super scalable and adopted by huge companies
@@ -6,7 +12,7 @@
 - Python
     (django or fastapi) is great for data-heavy apps, AI integrations, rapid dev
 
-## Other
+## Other concepts
 http
 routing
 middleware
