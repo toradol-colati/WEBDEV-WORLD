@@ -1,0 +1,1 @@
+Mongoose library, has an embedded http server for C and C++
