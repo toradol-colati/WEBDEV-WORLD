@@ -23,3 +23,43 @@
 - log security events
 - set secure cookie flags
 - restrict database permissions
+
+- Hide API keys
+- Rate limit login
+- Purge Git secrets
+- Add bot protection
+- Use public DB key
+- Parameterize queries
+- Enable row-level security
+- Validate all input
+- Encrypt sensitive data
+- Escape user content
+- Enforce server-side auth
+- Restrict file uploads
+- Lockrecord access
+- Trim APi responses
+- Block field tampering
+- Add security headers
+- Secure session cookies
+- Force HTTPS
+- Hash passwords
+- Scan dependencies
+
+- XSS
+- Rate limits
+- CSRF
+- Exposed environments
+- Insecure file uploads
+- Default credentials
+- Path traversal
+- Unsigned webhooks
+- SSRF
+- FE Payment checks
+- Broken password reset 
+- IDOR / BOLA
+- Weak session mgmt
+- APis + user input
+- JWT secrets
+- Exposed logs
+- Permissive CORS
+- Exposed source maps

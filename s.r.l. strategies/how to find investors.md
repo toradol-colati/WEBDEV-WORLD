@@ -1,1 +1,0 @@
---> check on linkedin for "business angel" and/or "angel investor" keywords and contact them

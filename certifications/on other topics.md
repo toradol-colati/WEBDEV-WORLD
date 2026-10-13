@@ -18,3 +18,4 @@ Stanford AI-Powered Product Innovation
 IBM AI Product Manager
 Udemy AI Product Manager Bootcamp
 Pragmatic Certified AI Product Management Expert
+Siemens Project Managers
