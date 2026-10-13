@@ -1,8 +1,3 @@
-## Services
-- Supabase
-- Firestore
-- Convex (uses typescript)
-
 
 ## Languages
 - Java

@@ -1,3 +1,5 @@
+it originally was a SEO best practices document but mano a mano si è trasformato in un webdev best practices generale....
+
 - build a sitemap.xml that maps the website for the search engine
 - baclinks (when other websites link to yours)
 - mobile friendliness, load speed, layout shifts and responsiveness ([[speed-up the website]])
@@ -32,3 +34,15 @@
 - make thin or overlapping pages
 - match every page to the search intent
 - add internal links to important pages
+- install GA4
+- test conversion tracking
+- setup email capture
+- setup a great heatmap tool
+- get an AB testing platform
+- **crawling and indexing**
+- content architecture + topical authority + search intent
+- do this procedure also:
+    1. go to findquestions. com and type what you sell
+    2. click "find questions" and see the list of what people ask
+    3. make sure the website answers each of them, maybe with one post per question
+    4. this'll create 'topical authority'
