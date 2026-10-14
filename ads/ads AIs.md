@@ -1,0 +1,1 @@
+open-higgsfield is a github repo for AI video generation

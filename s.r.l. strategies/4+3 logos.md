@@ -13,3 +13,6 @@ via 3dsvg.design
 ### animated logo on gmail
 - You can just drop your logo into Astra and ask it to provide an animated GIF of it. Give it as explicit instructions as you want.  
 - If you are uploading into a Google business account, which you probably are since you have a restaurant, it won't immediately work. You're going to have to go to your Google Admin, then go to Users, then More Settings, and give the users the option to update their profile picture individually. Note: You will not be able to upload a gift directly into the Google Admin. It has to be at the user level.
+
+### SVG logo
+via Quiver, that uses "Arrow" AI (trained for this purpose), it also has an MCP server useful for AI ([[Claude skills]], [[MCPs]])

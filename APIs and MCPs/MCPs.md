@@ -1,2 +1,2 @@
 - list of MCPs ([[helpful github repos]])
-- 
+- SVG logos via Quiver, that uses "Arrow" AI (trained for this purpose), it also has an MCP server useful for AI ([[Claude skills]], [[4+3 logos]])

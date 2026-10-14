@@ -5,12 +5,16 @@
 ### other things
 - add hsts
 - add csrf tokens
+- tighten CORS
+- disable production debugging
+- update patch dependencies
 - reset session on password change
 - expire reset links
 - prevent user enumeration
 - whitelist upload types
 - verify payment webhooks
 - set prices server-side
+- enforce permission server-side
 - block prompt injection
 - cap AI usage
 - limit request size
@@ -19,12 +23,20 @@
 - lock down cors
 - disable directory listing
 - remove default admin routes
+- protect admin routes
 - lock accounts after a couple of failed logins
 - log security events
 - set secure cookie flags
 - restrict database permissions
+- enable raw level security
+- keep auth tokens out of the local storage
+- remove sensitive data out of the log
+- keep .env off github
+- validate file uploads
+- 
 
 - Hide API keys
+- keep API secrets server-side
 - Rate limit login
 - Purge Git secrets
 - Add bot protection
@@ -45,7 +57,7 @@
 - Hash passwords
 - Scan dependencies
 
-- XSS
+- block XSS
 - Rate limits
 - CSRF
 - Exposed environments
@@ -53,6 +65,7 @@
 - Default credentials
 - Path traversal
 - Unsigned webhooks
+- verify webhooks
 - SSRF
 - FE Payment checks
 - Broken password reset 
@@ -63,3 +76,4 @@
 - Exposed logs
 - Permissive CORS
 - Exposed source maps
+- verify email addresses

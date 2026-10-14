@@ -18,6 +18,8 @@ it originally was a SEO best practices document but mano a mano si è trasformat
 - only 1 h1 tag per page
 - build a robots.txt
 - fix mobile responsiveness
+- add a favicon
+- allow ChatGPT searchbot (and others analoghi)
 - add a "preferred sources" badge to the website
     This makes it so people can literally have you appear more in AI Overviews, AI Mode, Top Stories, and Google Discover.   
     (1) Google Search Central - Help your readers find your site through preferred sources in Google Search --> (2) Paste the documentation into your favorite AI. It’s gonna tell you exactly what to do. You can customize the look of these buttons --> (3) If enough people click this button, it functions as a global ranking signal - your site does better for everybody.
@@ -48,3 +50,4 @@ it originally was a SEO best practices document but mano a mano si è trasformat
     4. this'll create 'topical authority'
 # Claude SEO
 - check the AgriclDaniel / claude-seo skill, is a github repo ([[helpful github repos]])
+- also the open-seo 
