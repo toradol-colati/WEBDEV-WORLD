@@ -48,6 +48,7 @@ it originally was a SEO best practices document but mano a mano si è trasformat
     2. click "find questions" and see the list of what people ask
     3. make sure the website answers each of them, maybe with one post per question
     4. this'll create 'topical authority'
+- "seed side selection": try to nominare le "autorità del settore" sul sito cosicchè Google lo noti più facilmente; più augmented/specifically, try maybe becoming an extension of the authority, something that solves a specifical problem
 # Claude SEO
 - check the AgriclDaniel / claude-seo skill, is a github repo ([[helpful github repos]])
 - also the open-seo 

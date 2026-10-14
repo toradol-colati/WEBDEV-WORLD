@@ -40,3 +40,11 @@
 * Optimistic Rendering: Instantly update the UI on user actions (like toggling a button or submitting a form) before the server response confirms it, making the app feel instantaneous.  
 * Helpful Tooltips: Attach clean hover tooltips to all icon-only buttons so users aren't left guessing what cryptic symbols actually do.  
 * Seamless State Sync: Combine these patterns to eliminate layout shifts, flashing loaders, and sluggish responsiveness, giving your app a truly legitimate finish.
+
+- "strong logo location" (top-left instead of top-center)
+- "provide hierarchy"
+- "don't use placeholder as label"
+- "primary CTA should always standout"
+- "don't use letter spacing unnecessarily"
+- "error messages attached to the specific place it belongs" (rather than consensing them at the bottom)
+- "card prices instead of radio buttons"
