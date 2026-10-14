@@ -4,3 +4,10 @@
 - Awesome Design — real design systems & references (Claude plugin)
 - Image-to-Code — turn design references into code (Claude plugin)
 - Playwright CLI — let Claude inspect and test the UI (Claude plugin)
+
+- Frontend Design, also by Anthropic ([[Claude skills and plugins]])
+- UI/UX pro max = contains 50+ styles, 161 palettes, 57 font pairings; to pair with 21st.dev for premium 3d animated components ([[Claude skills and plugins]])
+- impeccable.style (gives claude a real design vocabulary) ([[Claude skills and plugins]])
+- transitions.dev (crafted UI animations) ([[Claude skills and plugins]])
+- greesock / gsap-skills (for scroll, pinnin, timeline and parallax) ([[Claude skills and plugins]])
+- jakubkrehel / make-interfaces-feel-better (for tiny details like shadows, spacing, hover states) ([[Claude skills and plugins]])

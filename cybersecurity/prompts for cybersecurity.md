@@ -19,3 +19,5 @@ To protect secrets and API keys
 
 To validate & sanitize user input
     "Identify every place where user input enters the system including forms, APIs, uploads, and query parameters. Add strict validation and sanitization to prevent SQL injection, command injection, script injection, and unsafe file uploads. Reject invalid data and enforce strict input types."
+
+just launch a claude code /security-review ([[on AI skills and developing environments setup/Claude]])

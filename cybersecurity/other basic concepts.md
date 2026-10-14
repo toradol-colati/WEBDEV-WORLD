@@ -37,6 +37,8 @@
 
 - Hide API keys
 - keep API secrets server-side
+- remove secret keys from the server
+- enforce paywall server-side
 - Rate limit login
 - Purge Git secrets
 - Add bot protection
@@ -57,7 +59,7 @@
 - Hash passwords
 - Scan dependencies
 
-- block XSS
+- block XSS (basically, maybe, remove session tokens/jwts from localstorage and move them to httpOnly, Secure, SameSite=Strict cookies)
 - Rate limits
 - CSRF
 - Exposed environments

@@ -1,2 +1,3 @@
 ....
-an alternative could be "Plausible Analytics" on github
+- a free alternative could be "Plausible Analytics" on github
+- also "PostHog"

@@ -27,3 +27,4 @@ Siemens Project Managers
 Great Learning Human Resource Management
 Simplilearn Skillup HR Basics
 Hubspot Customer Service Fundamentals 
+Fidelity Customer Relations Simulation

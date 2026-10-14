@@ -9,3 +9,10 @@
 - crawl4AI ([[web scraping]])
 - ripienaar / free-for-dev I didn't understand exactly wha this is but it should contain helpful tools
 - AgriclDaniel / claude-seo ([[SEO best practices]])
+- system design (to learn how big tech actually build)
+- engineering blogs, where real companies explain how they built
+- bytebytego where system design is broken down with diagrams
+- EbookFoundation / free-programming-books (is a repo with them)
+
+# for finance
+[[]]

@@ -1,1 +1,0 @@
-- replace "github" with "gitdiagram" in the URL of a repo to get the diagram of the full repo

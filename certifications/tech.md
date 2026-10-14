@@ -53,4 +53,6 @@ Deloitte Data Analytics
 Deloitte Data Analytics Job Simulation
 Simplilearn SkillUp Java Full Stack Developer
 TensorFlow Developer Certificate
+BCG GenAI Job Simulation on Forage
+Vista Equity Partners AI in Action on Forage
 

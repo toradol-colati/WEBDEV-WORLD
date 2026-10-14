@@ -1,0 +1,4 @@
+- GSD (Get Shit Done): stop overwhelming AI with huge tasks
+- Ralph Loop: iterates coding attempts to refine and improve the final code generated
+- PONYTAIL: writes only the necessary amount of code
+- Coderabbit: an autonomous code reviewer
