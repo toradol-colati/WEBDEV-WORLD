@@ -7,3 +7,4 @@ same as [[speed-up the app]]
 5️⃣ Pagination → serve data in small pages, not 10,000 rows at once  
 
 - utilize caching, or pre-render public pages that do not need fresh data each visit
+- semantic caching

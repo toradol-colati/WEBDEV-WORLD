@@ -7,6 +7,8 @@ see also [[on backend]]
 - railway
 - fly.io
 - koyeb
+- Pocketbase (github repo)
+- Appwrite (github repo)
 # frontend providers
 ### free
 - Cloudflare Pages
@@ -22,10 +24,16 @@ see also [[on backend]]
 - deno deploy
 - surge
 - replit
+- Openship (github repo) is a self-hosted deployment platform
 # cloud
 - glitch
 - supabase
 - pythonanywhere
+- Appwrite (github repo)
 # auth providers
-#### free
 - Better Auth
+- Appwrite (github repo)
+
+# payments
+- Polar (github repo)
+- Appwrite (github repo)

@@ -1,3 +1,4 @@
+check for "logo-design-skill" (turns claude into a logo designer)
 ### primary logo
 the "face", what people should be recognizing instantly
 ### secondary

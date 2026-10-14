@@ -13,6 +13,8 @@
 - engineering blogs, where real companies explain how they built
 - bytebytego where system design is broken down with diagrams
 - EbookFoundation / free-programming-books (is a repo with them)
+- codecrafters-io/build-your-own-x ( to build tech from scratch)
+
 
 # for finance
 [[]]

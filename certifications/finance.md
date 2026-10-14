@@ -46,8 +46,25 @@ Commonwealth Bank Introduction to Software Engineering
 FRM GARP
 SIE
 CAIA
-FRM
+GARP FRM
 CFA
+Local Boards of Accountancy CPA
+ACCA Chartered Certified Accountant
+CFA ESG
+US CMA
+IMA CMA
+AFP CTP
+IIA CIA
+CVA
+CFP
+AFP FPAC
 LESG Financial Essentials
 LESG Workspace certification
 Alteryx Core Certification
+Financial Edge Introduction to Modeling
+Saylor: Principles of Finance
+Basel: Financial Analysis Using Excel
+OpenLearn: Companies and Financial Accounting
+LSE Online Certificate Courses
+Accenture Data Analytics & Visualization Virtual Experience
+FinOps Certified Professional by Linux Foundation

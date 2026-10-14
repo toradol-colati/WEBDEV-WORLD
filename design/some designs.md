@@ -1,4 +1,3 @@
-
 liquid glass 
 glassmorphism
 skeuomorphism
@@ -7,6 +6,8 @@ neo-brutalism
 claymorphism
 minimalism
 maximalism
+surrealism
+swiss design
 neumorphism
 flat design
 material design

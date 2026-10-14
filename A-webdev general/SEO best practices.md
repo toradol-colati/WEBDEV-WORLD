@@ -51,3 +51,9 @@ it originally was a SEO best practices document but mano a mano si è trasformat
 # Claude SEO
 - check the AgriclDaniel / claude-seo skill, is a github repo ([[helpful github repos]])
 - also the open-seo 
+
+# "manual" check
+1. press F12
+2. click the lighthouse tab
+3. let google grade the website
+4. paste the result on AI coding agent to improve anything

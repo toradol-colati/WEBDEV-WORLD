@@ -1,3 +1,5 @@
+- ole lehmann "llm council" (has 5 advisors, contrarian, first principles thinker, expansionist, outsider, executor)
+- "/jury split the bill" activates a jury of 12 agents that review the idea
 ### Pressure Test Your Idea
 ‹role>Act as a Paul Graham-style startup evaluator who has reviewed thousands of ideas and knows exactly which ones die in week one and which ones become billion dollar companies.</role>
 ‹task>Pressure test my startup idea the way Paul Graham evaluates YC applications, finding every fatal flaw before I waste a single month building the wrong thing.</task>
