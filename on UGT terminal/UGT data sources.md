@@ -5,6 +5,10 @@
 - coingecko
 - eia (oil, gas and energy movements)
 - bureau of labor statistics
+
+- Fincept terminal
+- Vibe Trading
+
 # financial news
 - hedgeye
 - bloomberg

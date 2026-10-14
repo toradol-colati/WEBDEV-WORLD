@@ -2,6 +2,7 @@
 hubspot digital marketing
 hubspot AI for marketing
 hubspot email marketing
+Advertising with Meta
 
 ## prompt engineering
 Vanderbilt University Prompt Engineering for ChatGPT
@@ -28,3 +29,4 @@ Great Learning Human Resource Management
 Simplilearn Skillup HR Basics
 Hubspot Customer Service Fundamentals 
 Fidelity Customer Relations Simulation
+Bloomberg client engagement

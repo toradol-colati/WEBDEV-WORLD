@@ -11,3 +11,17 @@
 - transitions.dev (crafted UI animations) ([[Claude skills and plugins]])
 - greesock / gsap-skills (for scroll, pinnin, timeline and parallax) ([[Claude skills and plugins]])
 - jakubkrehel / make-interfaces-feel-better (for tiny details like shadows, spacing, hover states) ([[Claude skills and plugins]])
+
+- OriginKit (MCP) ($ claude mcp add originkit https://mcp.originkit.dev/mcp)
+- 21st.dev ($npx @21st-dev/cli@latest install claude) (API keys gratuite sul loro sito)
+- Beautiful UI ($ npx shadcn add https://beautifului.dev/r/registry.json)
+- Aceternity UI (prendi l'URL e lo passi all'AI)
+- transitions.dev (skill) ($ npx skills add Jakubantalik/transitions.dev)
+- Component Gallery
+- Agentation (commentare specifiche parti del website e l'AI legge il commento ed esegue le modifiche)
+
+- Spline (animazioni 3D per siti web)
+- Rive (animazioni 2D per siti web)
+- Lottie (animazioni icone) ([[4+3 logos]], [[3D logo]])
+- Shader Gradient (animazioni dei gradienti)
+- Icon8 (animazioni illustrazioni)

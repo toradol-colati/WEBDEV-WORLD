@@ -15,3 +15,5 @@ So AI agents know what your site does, who it helps, and which pages matter most
     Put all of your reviews  on this website, list them all out, write everything, all of the reviews that you would want people to see.  
     When people are doing due diligence on your business, ChatGPT goes to Google, searches your business name and the word reviews. This website comes up, ChatGPT sees all the reviews you shared on your reviews website.    
     Only make sure you link to your reviews site from your own website. You need that link to get it showing on Google so that ChatGPT will find it.
+
+6. FAQ section (optimized !!!)

@@ -28,6 +28,12 @@
 - neon colors
 - basic pastel colors 
 
+- n+1 queries  --> use a join
+- missing indexes  --> add an index
+- SELECT *  --> where + limit
+- no pagination  --> page it
+- blocking main threads. --> async + workers
+
 ## do this instead:
 - Skeleton Loaders: Replace generic loading spinners with animated gray placeholder boxes that mimic your UI layout to drastically reduce perceived load times.  
 * Aggressive Caching: Cache fetched data locally so returning to pages or reloading doesn't trigger redundant network requests and slow down your app.  

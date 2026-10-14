@@ -35,4 +35,13 @@ affaan-m / ECC (on github) is the full claude setup of the guy who won the anthr
 - Frontend Design, also by Anthropic ([[design with AI]])
 - logo-design-skill (turns claude into a logo designer) ([[4+3 logos]])
 
+- Claude Ads (claude-ads.app - Terminal / /ads audit) ([[ads AIs]])
+    /ads audit
+    /ads google
+    /ads meta
+    /ads budget
+    /ads creative
+    /ads plan <type>
+    /ads competitor
+
 - kepano / obsidian-skills (github repo) so that Claude writes and link notes automatically

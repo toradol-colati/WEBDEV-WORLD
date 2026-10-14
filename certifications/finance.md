@@ -43,11 +43,11 @@ BCG Digital transformation job simulation
 Masterdacrd Asvisors & Consulting Services
 TATA ESG
 Commonwealth Bank Introduction to Software Engineering
-FRM GARP
-SIE
-CAIA
-GARP FRM
-CFA
+FINRA SIE
+CAIA Level I
+GARP FRM Part I
+CFA Level I
+CPA
 Local Boards of Accountancy CPA
 ACCA Chartered Certified Accountant
 CFA ESG
@@ -58,6 +58,9 @@ IIA CIA
 CVA
 CFP
 AFP FPAC
+CMT Level I
+Series 3
+Series 65
 LESG Financial Essentials
 LESG Workspace certification
 Alteryx Core Certification
@@ -68,3 +71,6 @@ OpenLearn: Companies and Financial Accounting
 LSE Online Certificate Courses
 Accenture Data Analytics & Visualization Virtual Experience
 FinOps Certified Professional by Linux Foundation
+Wall Street Prep Financial Modeling Training
+Training the Street Finance Training Solutions
+Microsoft Excel something (2019)
