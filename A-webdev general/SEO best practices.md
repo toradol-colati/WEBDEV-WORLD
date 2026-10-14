@@ -1,5 +1,5 @@
 it originally was a SEO best practices document but mano a mano si è trasformato in un webdev best practices generale....
-
+# best practices
 - build a sitemap.xml that maps the website for the search engine
 - baclinks (when other websites link to yours)
 - mobile friendliness, load speed, layout shifts and responsiveness ([[speed-up the website]])
@@ -46,3 +46,5 @@ it originally was a SEO best practices document but mano a mano si è trasformat
     2. click "find questions" and see the list of what people ask
     3. make sure the website answers each of them, maybe with one post per question
     4. this'll create 'topical authority'
+# Claude SEO
+- check the AgriclDaniel / claude-seo skill, is a github repo ([[helpful github repos]])

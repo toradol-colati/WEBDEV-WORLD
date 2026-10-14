@@ -1,7 +1,10 @@
 Bloomberg Market Concepts
+Bloomberg Spreadsheet Analysis
+Bloomberg ESG
 Yale Financial Markets Course
-Corporate Finance Institute
+CFI Intro to Corporate Finance
 CFI Financial Modeling & Valuation Analyst (FMVA)
+CFI Excel Crash Course
 FP&A AI for Finance
 NISM SEBI Investor Certificate
 NISM Equity Derivative Certificate
@@ -11,14 +14,29 @@ NCFM Investment Anaylist & Portfolio Management
 University of Melbourne Coursera Corporate Finance
 PWC Audit
 PWC Tax Services
+PWC Management Consulting
 EY Audit
 EY Technology Risk
 KPMG Audit
 KPMG Tax Professional
+KPMG career catalyst program
 KPMG Experience a Day with KPMG Audit & Assurance
 Goldman Sachs Controllers
+Goldman Sachs Operations job simulation
+Goldman Sachs risk simulation
+JP Morgan Investment Banking Simulation
+CITI Finance Simulation
+Bank of America Investment Banking Simulation
+Fidelity Investment Management
 BCG Introduction to Strategy Consulting
+BCG Digital transformation job simulation
 Masterdacrd Asvisors & Consulting Services
 TATA ESG
 Commonwealth Bank Introduction to Software Engineering
 FRM GARP
+SIE
+CAIA
+FRM
+CFA
+LESG Financial Essentials
+LESG Workspace certification

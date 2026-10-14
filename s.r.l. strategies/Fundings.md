@@ -1,6 +1,9 @@
 # find investors
 --> check on linkedin for "business angel" and/or "angel investor" keywords and contact them
 
+# crowdfunding
+- star.fun
+
 # private funding "programs"
 - Microsoft for startups
 - Vercel Startup program

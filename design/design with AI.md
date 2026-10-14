@@ -1,0 +1,6 @@
+- nexu-io / open-design is an open design workflow that turns AI into a design assistant ([[helpful github repos]])
+- tasteskill (Claude plugin)
+- Web Design Guidelines — audit your UI (Claude plugin)
+- Awesome Design — real design systems & references (Claude plugin)
+- Image-to-Code — turn design references into code (Claude plugin)
+- Playwright CLI — let Claude inspect and test the UI (Claude plugin)
