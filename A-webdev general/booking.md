@@ -1,2 +1,0 @@
-- github repo for scheduling and booking: cal.com
-- also cal.diy (for scheduling)

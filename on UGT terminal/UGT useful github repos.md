@@ -1,5 +1,0 @@
-- Kronos
-- Freqtrade
-- skfolio
-- NautilusTrader
-- hummingbot

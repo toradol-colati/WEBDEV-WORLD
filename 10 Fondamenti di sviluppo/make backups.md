@@ -1,0 +1,9 @@
+implement database backups or one bad migration will likely destroy your work
+
+---
+%% Sezione aggiunta da AI il 2026-10-16. Tutto il testo sopra è il tuo originale, non modificato. %%
+## Collegamenti
+- Indice: [[MOC Fondamenti]]
+- [[on backend]]: backend
+- [[Providers]]: provider gestiti
+- [[Database]]: migrazioni

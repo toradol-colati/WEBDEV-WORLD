@@ -1,5 +1,0 @@
-- crawl4AI (github repo) ([[helpful github repos]])
-- D4Vinci / Scrapling ([[helpful github repos]])
-- Maxun
-- Dify
-- a custom connector to add manually copy-pasting the MCP from ultimatewebscraper.com 
